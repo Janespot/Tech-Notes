@@ -10,11 +10,12 @@ ___
 
 ___
 #### Types of AI
+
 - `General AI` - A multipurpose that doesn't exit at the moment such as the robots in the movies.
-	**Examples:**
+	`Examples:`
 	- 
 - `Narrow AI` - Solves a narrow set of problems. Exists at the moment.
-	**Examples:**
+  	`Examples:`
 	- 
 
 Machine Learning
