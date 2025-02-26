@@ -13,10 +13,8 @@ ___
 
 - `General AI` - A multipurpose that doesn't exit at the moment such as the robots in the movies.
 	`Examples:`
-	- 
 - `Narrow AI` - Solves a narrow set of problems. Exists at the moment.
   	`Examples:`
-	- 
 
 Machine Learning
 Deep Learning
