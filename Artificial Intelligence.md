@@ -1,3 +1,4 @@
+# Artificial Intelligence
 #### What is AI?
 
 AI is a branch of Computer Science that attempts to create machines that act rationally in response to the environment.
@@ -9,10 +10,10 @@ ___
 
 ___
 #### Types of AI
-- **General AI** - A multipurpose that doesn't exit at the moment such as the robots in the movies.
+- `General AI` - A multipurpose that doesn't exit at the moment such as the robots in the movies.
 	**Examples:**
 	- 
-- **Narrow AI** - Solves a narrow set of problems. Exists at the moment.
+- `Narrow AI` - Solves a narrow set of problems. Exists at the moment.
 	**Examples:**
 	- 
 
