@@ -71,5 +71,18 @@ ___
 		- `AI Verticals e.g. companies that deal with: lots of data, AI Products, AI Services`
 	- Focus on Human Aspects i.e. avoid automatable tasks e.g. simple and repetitive and prefer human skills e.g. compassion and creativity
 3. Invest in an AI-first Economy
+	- Invest in Yourself: Education and Career
+	- Invest in AI Solutions:
+		- Business owner - improve business solutions
+		- Employee - increase personal productivity
+		- Personal life - Make life enjoyable
+	- Don't depend on your Labor, invest in assets
+		<span class="unchecked">✘</span>    Labor: manual, knowledge, specialized
+		<span class="checked">✔</span> Assets: Companies, sell personal products or provide automated services
+	- Invest in the Economy as a Whole
+		<span class="checked">✔</span> Diversify your Risk
+		<span class="checked">✔</span> Buy Low and Hold
+		<span class="checked">✔</span> Have a Safety Net
+	- Invest Early for Compound Growth
 4. Use AI responsibly and Ethically
 5. Adapt to what Comes Next
