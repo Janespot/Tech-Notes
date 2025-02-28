@@ -11,14 +11,35 @@ ___
 ___
 #### Types of AI
 
-- `General AI` - A multipurpose that doesn't exit at the moment such as the robots in the movies.
-	`Examples:`
-- `Narrow AI` - Solves a narrow set of problems. Exists at the moment.
-  	`Examples:`
+- `General AI/ Strong AI` - A multipurpose that can perform any human task. Doesn't exist at the moment, only in fiction such as the robots in the movies. 
+- `Narrow AI/ Weak AI` - Solves a narrow set of problems. Exists at the moment.
+  	`Examples:` virtual assistants like SIRI and ALEXA, facial recognition and recommendation AI
+- `SuperIntelligent AI`- AI that surpasses human intelligence
 
-Machine Learning
-Deep Learning
-Reinforcement Learning
+#### How does AI learn and improve?
+AI learns by taking large amount of data as input, analyzing the data to find patterns and relationships in these data, and finally adjusting the internal parameters based on the feedback it gets. 
+
+This is made passible by machine learning(ML) algorithms.
+
+To enhance performance. AI models should be trained with more data, parameters should be adjusted by the AI developer and AI should undergo continuous training. 
+
+Different types of ML include:
+- Supervised Learning - An AI model is given labeled inputs, which it analyzes, finds patterns and predicts the output e.g. predicting the kind of video one likes based on the videos they play.
+- Unsupervised Learning - An AI model is given unlabeled inputs, which it analyzes finds patterns by grouping the data and predicts the output.
+- Reinforcement learning - An AI model learns by receiving feedback i.e. a reward for positive actions and getting a penalty for negative actions.
+- Self-supervised learning - Similar to unsupervised but instead of grouping data, it draws its own conclusion for regression.
+
+#### What makes AI so powerful?
+AI learns from a large amount of data and can therefore solve complex  such as pattern recognition and problem solving. It is able to improve over time just like the human brain, only better, since it can avoid biases and fatigue that human brain encounters. AI is also able to learn faster than the human brain in a short span of time since it can analyze a vast amount of data in a short span of time.
+
+#### Can AI think or feel like humans?
+One limitation of AI is that it cannot be able to think or feel like humans. AI can analyze data and perform data based on algorithms but lacks emotions, self-awareness and consciousness. Therefore, AI cannot think or feel like humans.
+
+___
+
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
 
 ___
 #### To be prepared for a future filled with AI:
@@ -80,7 +101,7 @@ ___
 		<span class="unchecked">✘</span>    Labor: manual, knowledge, specialized
 		<span class="checked">✔</span> Assets: Companies, sell personal products or provide automated services
 	- Invest in the Economy as a Whole
-		<span class="checked">✔</span> Diversify your Risk
+		<span>✔</span> Diversify your Risk
 		<span class="checked">✔</span> Buy Low and Hold
 		<span class="checked">✔</span> Have a Safety Net
 	- Invest Early for Compound Growth
